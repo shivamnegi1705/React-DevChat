@@ -29,7 +29,7 @@ npm start
 
 ### Author
 
-Mihailo Maksa
+Shivam Negi
 
 ### Version
 
